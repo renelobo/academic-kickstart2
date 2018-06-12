@@ -6,7 +6,7 @@
 baseurl = "https://renelobo.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "René Lobo"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "René Alejandro Lobo Quintero"
-  role = "Professor of Artificial Intelligence"
+  role = "Professor and researcher Universidad Autonoma de Bucaramanga, Mobile developer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
