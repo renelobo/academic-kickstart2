@@ -98,8 +98,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = ""
-  latitude = "7.1272998"
-  longitude = "-73.1088271"
+  latitude = "7.116675"
+  longitude = "-73.10496"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
