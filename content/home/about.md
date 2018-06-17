@@ -10,31 +10,27 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Human Computer Interaction",
+    "Movile Computing",
+    "Internet of Things",
+    "Educational Thecnology"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MEng in Systems and Computing Engeniering"
+  institution = "Universidad Nacional de Colombia"
+  year = 2015
+
+[[education.courses]]
+  course = "BSc in Systems Engeniering"
+  institution = "Universidad Nacional de Colombia"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-René Lobo is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+René Lobo is a professor of computer programming and movile applications development at the Universidad Autónoma de Bucaramanga, Colombia. His research interests include Human Computer Interaction, Mobile Computing and Internet of Things. He leads the Preservación e Intercambio Digital de Información y Conocimiento (Prisma) research group, which develops blablaba self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
