@@ -13,7 +13,7 @@ weight = 5
     "Human Computer Interaction",
     "Movile Computing",
     "Internet of Things",
-    "Educational Thecnology"
+    "Educational Technology"
   ]
 
 # List your qualifications (such as academic degrees).
