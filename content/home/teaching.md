@@ -15,28 +15,31 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-I am a teaching instructor for the following courses at University X:
+I am a teaching instructor for the following courses at Autonomous University of Bucaramanga:
 
 <ul class="ul-edu fa-ul">
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
-      <p class="course">Research methodologies | 2018 - now</p>
+      <p class="course">Computer Programming | 2017 - now</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
-      <p class="course">Scientific seminars | 2017 - now</p>
-      <p class="institution">List of seminars: <a href="https://iiw.kuleuven.be/onderzoek/eavise/seminars" target="_blank">https://iiw.kuleuven.be/onderzoek/eavise/seminars</a></p>
+      <p class="course">Programming Fundamentals | 2015 - 2017</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
-      <p class="course">Computer vision hands-on labs using the OpenCV framework | 2015 - now</p>
+      <p class="course">Movile Applications Development | 2016 - now</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-comments"></i>
+    <div class="description">
+      <p class="course">Theory of Computation | 2015 - 2017</p>
     </div>
   </li>
   <li>
