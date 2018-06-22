@@ -61,49 +61,73 @@ I am a teaching instructor for the following courses at Autonomous University of
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Automated coconut tree detection in aerial imagery.</p>
+      <p class="course">DESIGN AND IMPLEMENTATION OF A MOBILE APPLICATION FOR ITINERARIES OF THE TRANSPORTATION COMPANY COTRASANGIL.</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Improved the existing orchid flower detection pipeline.</p>
+      <p class="course">PROTOTYPE OF COMPUTER SYSTEM TO CAPTURE ENVIRONMENTAL INFORMATION IN CLOSED SPACES IN REAL TIME..</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Man overboard detection using thermal cameras.</p>
+      <p class="course">EASY TRIP PROTOTYPE OF MOBILE APPLICATION FOR TOURISTIC ORIENTATION USING GEOREFERENCING AND QR CODES</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Visual framework for keypoint descriptors and matchers in OpenCV3.</p>
+      <p class="course">DEVELOPMENT OF THE INDOORMALL MOBILE APPLICATION, FOR INDOOR REAL TIME POSITIONING IN SHOPPING MALLS.</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Global framework for defining the orientation of images patches.</p>
+      <p class="course">COMPARISON BETWEEN PYTHON AND JAVA PROGRAMMING LANGUAGES FOR WEB APPLICATION DEVELOPMENT.</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Detection, classification and tracking of trafic at crossroads.</p>
+      <p class="course">WIFSOND METER: MOBILE APPLICATION FOR MEASURE AMBIENTAL VARIABLES IN THE UNAB.</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Detection and classification of cars and pedestrians in IR images.</p>
+      <p class="course">DEVELOPMENT OF AN AUGMENTED REALITY APPLICATION FOR EDUCATION IN PHYSICS.</p>
     </div>
   </li>
   <li>
     <i class="fa-li fa fa-book"></i>
     <div class="description">
-      <p class="course">Efficient person detection in video feeds.</p>
+      <p class="course">PROTOTYPE OF A COMPUTER SYSTEM FOR MONITORING ENVIRONMENTAL CONDITIONS IN UNAB'S BIOBANK USING FREE HARDWARE AND FREE SOFTWARE.</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <div class="description">
+      <p class="course">HEALTH GUARDIAN: MOBILE APPLICATION FOR SUPPORTING THE TREATMENT OF CHRONIC NON-COMMUNICABLE DISEASES THROUGH GAMIFICATION.</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <div class="description">
+      <p class="course">Prototype of automatic irrigation and monitoring system that measures humidity and temperature to evaluate vegetation.</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <div class="description">
+      <p class="course">Development of a mobile application for collective evaluation of vehicles and automotive workshops using crowdsourcing techniques.</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-book"></i>
+    <div class="description">
+      <p class="course">DEVELOPMENT OF A MOBILE APPLICATION THAT FACILITATES INFORMATION RELATED TO THE CULTURAL OFFER OF THE CITY.</p>
     </div>
   </li>
 </ul>
