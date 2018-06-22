@@ -33,14 +33,14 @@ I am a teaching instructor for the following courses at Autonomous University of
   </ul>
   
   ## Past Courses
+  
   <ul class="ul-edu fa-ul">
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
       <p class="course">Programming Fundamentals | 2015 - 2017</p>
     </div>
-  </li>
-  
+  </li> 
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
@@ -64,8 +64,7 @@ I am a teaching instructor for the following courses at Autonomous University of
     <div class="description">
       <p class="course">Computer Programming | National University of Colombia 2012 - 2013</p>
     </div>
-  </li>
-  
+  </li>  
 </ul>
 
 ## Bachelor thesisses
@@ -178,7 +177,5 @@ I am a teaching instructor for the following courses at Autonomous University of
     <div class="description">
       <p class="course">Design and Implementation of an Learning Object Prototype in Augmented Reality for Educational and Collaborative Environments.</p>
     </div>
-  </li>
-  
-  
+  </li>  
 </ul>
