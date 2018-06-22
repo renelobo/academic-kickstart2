@@ -31,7 +31,7 @@ I am a teaching instructor for the following courses at Autonomous University of
     </div>
   </li>
   
-  Past Courses
+  ## Past Courses
   
   <li>
     <i class="fa-li fa fa-comments"></i>
