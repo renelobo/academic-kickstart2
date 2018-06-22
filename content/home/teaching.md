@@ -30,9 +30,10 @@ I am a teaching instructor for the following courses at Autonomous University of
       <p class="course">Movile Applications Development | 2016 - now</p>
     </div>
   </li>
+  </ul>
   
   ## Past Courses
-  
+  <ul class="ul-edu fa-ul">
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
