@@ -27,15 +27,19 @@ I am a teaching instructor for the following courses at Autonomous University of
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
-      <p class="course">Programming Fundamentals | 2015 - 2017</p>
-    </div>
-  </li>
-  <li>
-    <i class="fa-li fa fa-comments"></i>
-    <div class="description">
       <p class="course">Movile Applications Development | 2016 - now</p>
     </div>
   </li>
+  
+  Past Courses
+  
+  <li>
+    <i class="fa-li fa fa-comments"></i>
+    <div class="description">
+      <p class="course">Programming Fundamentals | 2015 - 2017</p>
+    </div>
+  </li>
+  
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
@@ -45,14 +49,22 @@ I am a teaching instructor for the following courses at Autonomous University of
   <li>
     <i class="fa-li fa fa-comments"></i>
     <div class="description">
-      <p class="course">Scientific project for second year students | 2014 - 2017</p>
-      <p class="institution">Marker based augmented reality | 2017 & 2016</p>
-      <p class="institution">Mini-me in 3D (creating + printing 3D models of students) | 2016</p>
-      <p class="institution">Building an anti burglar system using sensor fusion | 2014 & 2015</p>
-      <p class="institution">Building a laser line based 3D scanner | 2015</p>
-      <p class="institution">360 degree panoramic photo helm | 2014</p>
+      <p class="course">Software engineering | Unisangil 2014 - 2015</p>
     </div>
   </li>
+  <li>
+    <i class="fa-li fa fa-comments"></i>
+    <div class="description">
+      <p class="course">Computing Paradigms | Unisangil 2014 - 2015</p>
+    </div>
+  </li>
+  <li>
+    <i class="fa-li fa fa-comments"></i>
+    <div class="description">
+      <p class="course">Computer Programming | National University of Colombia 2012 - 2013</p>
+    </div>
+  </li>
+  
 </ul>
 
 ## Bachelor thesisses
