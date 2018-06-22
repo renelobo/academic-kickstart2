@@ -32,7 +32,7 @@ I am a teaching instructor for the following courses at Autonomous University of
   </li>
   </ul>
   
-  ## Past Courses
+  Past Courses
   
   <ul class="ul-edu fa-ul">
   <li>
