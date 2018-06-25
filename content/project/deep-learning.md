@@ -16,7 +16,7 @@ image_preview = "bubbles.jpg"
 tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+# external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
