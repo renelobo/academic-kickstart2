@@ -33,11 +33,19 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
+  name = "Augmented Reality"
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
+  name = "Virtual Reality"
+  tag = ".demo"
+  
+  [[filter]]
+  name = "Hardware"
+  tag = ".demo"
+  
+  [[filter]]
+  name = "Pedagogy"
   tag = ".demo"
 
 +++
