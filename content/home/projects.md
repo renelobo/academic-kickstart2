@@ -34,7 +34,7 @@ filter_default = 0
 
 [[filter]]
   name = "Augmented Reality"
-  tag = ".deep-learning"
+  tag = ".AR"
 
 [[filter]]
   name = "Virtual Reality"
