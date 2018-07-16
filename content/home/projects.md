@@ -34,7 +34,7 @@ filter_default = 0
 
 [[filter]]
   name = "Augmented Reality"
-  tag = ".AR"
+  tag = ".demo"
 
 [[filter]]
   name = "Virtual Reality"
