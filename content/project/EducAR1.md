@@ -16,7 +16,7 @@ image_preview = "boards.jpg"
 tags = ["AR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://renelobo.github.io/academic-kickstart2/content/project/EducAR.html"
+external_link = "https://renelobo.github.io/academic-kickstart2/EducAR.html"
 
 # Does the project detail page use math formatting?
 math = false
