@@ -3,10 +3,10 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "AnimVR"
+title = "Biobank"
 
 # Project summary to display on homepage.
-summary = "Instructional Model for the Implementation of Virtual Reality in Educational Environments"
+summary = "Remote monitoring system for Biobanks for research purposes"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "bio1.png"
