@@ -38,7 +38,7 @@ filter_default = 0
 
 [[filter]]
   name = "Virtual Reality"
-  tag = ".demo"
+  tag = ".VR"
   
   [[filter]]
   name = "Hardware"
