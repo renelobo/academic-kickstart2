@@ -9,7 +9,7 @@ title = "EducAR"
 summary = "Educative Augmented Reality"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "boards.jpg"
+image_preview = "educar1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
