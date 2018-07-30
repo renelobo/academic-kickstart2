@@ -13,7 +13,7 @@ image_preview = "animvr1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["AR"]
+tags = ["VR"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "renelobo.wordpress.com/2018/07/30/animvr/"
