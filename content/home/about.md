@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-René Lobo is a professor of computer programming and movile applications development at the Universidad Autónoma de Bucaramanga, Colombia. His research interests include Human Computer Interaction, Mobile Computing and Internet of Things. He leads the Preservación e Intercambio Digital de Información y Conocimiento (Prisma) research group, which develops blablaba self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+René Lobo is a professor of computer programming and movile applications development at the Autonomous University of Bucaramanga, Colombia. His research interests include Human Computer Interaction, Mobile Computing and Internet of Things applied to the education. He leads the Digital Preservation and Exchange of Information and Knowledge (Prisma) research group, which conducts applied research related to the technological foundations of knowledge management, the exchange of information and knowledge, technological innovation as support for technological management processes of research, electronic government and support for the most vulnerable population sectors of society.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
