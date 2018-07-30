@@ -9,14 +9,14 @@ title = "EducAR"
 summary = "Educative Augmented Reality"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "educar1.png"
+image_preview = "animvr1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["AR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://renelobo.wordpress.com/2018/07/21/animvr/"
+external_link = "renelobo.wordpress.com/2018/07/30/animvr/"
 
 
 # Does the project detail page use math formatting?
