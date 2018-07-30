@@ -16,7 +16,7 @@ image_preview = "bio1.png"
 tags = ["Hardware"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "renelobo.wordpress.com/2018/07/30/bio/"
+external_link = "renelobo.wordpress.com/2018/07/30/biobank/"
 
 
 # Does the project detail page use math formatting?
