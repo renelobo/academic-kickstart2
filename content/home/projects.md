@@ -42,11 +42,11 @@ filter_default = 0
   
   [[filter]]
   name = "Hardware"
-  tag = ".deep-learning"
+  tag = ".Hardware"
   
   [[filter]]
   name = "Pedagogy"
-  tag = ".demo"
+  tag = ".Peda"
 
 +++
 
