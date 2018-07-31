@@ -16,7 +16,7 @@ image_preview = "animvr1.png"
 tags = ["VR"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "renelobo.wordpress.com/2018/07/30/animvr/"
+external_link = "https://renelobo.wordpress.com/2018/07/30/animvr/"
 
 
 # Does the project detail page use math formatting?
