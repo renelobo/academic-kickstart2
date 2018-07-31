@@ -183,9 +183,9 @@ enableGitInfo = false
   ]
 
   # Configuration of talk pages.
-  [params.talks]
+  #[params.talks]
     # Show talk time?
-    time = false
+   # time = false
 
   # Configuration of publication pages.
   [params.publications]
