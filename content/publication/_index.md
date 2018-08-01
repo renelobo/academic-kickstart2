@@ -19,7 +19,7 @@
 
 +++
 title = "A publication title, such as title of a paper"
-selected = true
+
 # Date first published.
 date = "2013-07-01"
 
@@ -70,7 +70,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
@@ -86,4 +86,3 @@ caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
