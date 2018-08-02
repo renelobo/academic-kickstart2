@@ -22,7 +22,7 @@ publication = "Revista Colombiana de Computación."
 publication_short = "In *RCC*"
 
 # Abstract and optional shortened version.
-abstract = "The advancement of information and communication technology (ITC) has helped the development of research in the area of health related to the process of health service delivery. For rural and remote areas several models, platforms and projects have been organized in order to provide universal health coverage. This article presents a background revision and mentions experiences carried out at national level on issues concerning e-health" ,"
+abstract = "The advancement of information and communication technology (ITC) has helped the development of research in the area of health related to the process of health service delivery. For rural and remote areas several models, platforms and projects have been organized in order to provide universal health coverage. This article presents a background revision and mentions experiences carried out at national level on issues concerning e-health"
 
 # Featured image thumbnail (optional)
 image_preview = ""
