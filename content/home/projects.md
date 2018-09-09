@@ -48,9 +48,7 @@ filter_default = 0
   name = "Applications"
   tag = ".Apps"
   
-  [[filter]]
-  name = "Pedagogy"
-  tag = ".Peda"
+  
 
 +++
 
