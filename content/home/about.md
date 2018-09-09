@@ -21,6 +21,11 @@ weight = 5
   course = "MEng in Systems and Computing Engeniering"
   institution = "Universidad Nacional de Colombia"
   year = 2015
+  
+ [[education.courses]]
+  course = "International Exchange"
+  institution = "Politecnico Di Milano"
+  year = 2012
 
 [[education.courses]]
   course = "BSc in Systems Engeniering"
