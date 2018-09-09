@@ -44,7 +44,7 @@ filter_default = 0
   name = "Hardware"
   tag = ".Hardware"
   
-  [[Apps]]
+  [[filter]]
   name = "Applications"
   tag = ".Apps"
   
