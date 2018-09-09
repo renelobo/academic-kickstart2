@@ -3,10 +3,10 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Movile Applications"
+title = "Mobile applications"
 
 # Project summary to display on homepage.
-summary = "Movile Applications"
+summary = "Android mobile applications development"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "mob1.png"
