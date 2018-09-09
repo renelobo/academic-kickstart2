@@ -44,6 +44,10 @@ filter_default = 0
   name = "Hardware"
   tag = ".Hardware"
   
+  [[Apps]]
+  name = "Applications"
+  tag = ".App"
+  
   [[filter]]
   name = "Pedagogy"
   tag = ".Peda"
