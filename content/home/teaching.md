@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am a teaching instructor for the following courses at Autonomous University of Bucaramanga:
+Instructor of the following courses at Autonomous University of Bucaramanga from 2015 to 2019:
 
 <ul class="ul-edu fa-ul">
   <li>
