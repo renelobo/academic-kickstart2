@@ -55,18 +55,18 @@ enableGitInfo = false
 
   # Your details.
   name = "René Alejandro Lobo Quintero"
-  role = "Professor and researcher, Mobile developer"
+  role = "PhD Student, Mobile developer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Universidad Autonoma de Bucaramanga", url = "www.unab.edu.co" } ]
+  organizations = [ { name = "Universitat Pompeu Fabra", url = "www.upf.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "rlobo@unab.edu.co"
-  address = "Avenida 42 # 48 - 11, Bucaramanga Colombia "
+  email = "renealejandro.lobo01@estudiant.upf.edu"
+  address = "Roc Boronat, 138 - Tanger Building, room 55.106"
   #office_hours = ""
-  phone = "+57 3192274502"
+  #phone = "+57 3192274502"
   skype = "raloboq"
   telegram = ""
 
@@ -98,8 +98,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 3
   map_api_key = ""
-  latitude = "7.116675"
-  longitude = "-73.10496"
+  latitude = "41.403647"
+  longitude = "2.194595"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
