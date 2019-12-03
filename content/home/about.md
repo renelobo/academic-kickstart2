@@ -10,10 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Human Computer Interaction",
-    "Movile Computing",
-    "Internet of Things",
-    "Educational Technology"
+    "Gamification",
+    "Educational Technology",
+    "Learning Analytics",
+    "Mobile Computing"
   ]
 
 # List your qualifications (such as academic degrees).
