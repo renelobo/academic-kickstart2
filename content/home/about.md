@@ -10,13 +10,18 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Gamification",
     "Educational Technology",
     "Learning Analytics",
-    "Mobile Computing"
+    "Mobile Computing",
+    "Gamification"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "PhD Information and Communication technology"
+  institution = "Universitat Pompeu Fabra"
+  year = 2023
+
 [[education.courses]]
   course = "MEng in Systems and Computing Engeniering"
   institution = "Universidad Nacional de Colombia"
@@ -36,4 +41,6 @@ weight = 5
 
 # Biography
 
-René Lobo is a PhD student in the Interactive and Distributed Technologies for Education (TIDE) Group at the Information and Communication Technologies Department of the Universitat Pompeu Fabra (UPF). He received his BSc in Systems Engineering (2011) and MSc in Systems Engineering and Computing from the Universidad Nacional de Colombia (2015). Then he worked as an assistant professor and researcher in the department of Systems Engineering at Universidad Autonoma de Bucaramanga in Colombia for four years. He is also a mobile applications developer and entrepreneur, designing and developing apps for transportation, delivery, entertainment and education services. His research interests are focused on Educational Technologies, Learning Analytics and Gamification.
+I hold a PhD in Information and Communication Technologies from Universitat Pompeu Fabra (Spain) and a Master's in Systems and Computer Engineering from the National University of Colombia. My research is primarily focused on leveraging technology to enhance education, with a special emphasis on measuring its impact through Learning Analytics. Over the years, I have developed a deep passion for exploring how data-driven insights can transform educational practices and improve student outcomes.
+
+Since 2013, I have been actively involved in mobile application development, specializing in both Android and cross-platform solutions. As an entrepreneur and freelancer, I have had the opportunity to create innovative applications for a wide range of sectors, gaining experience in project management, user experience design, and adapting technology to solve real-world problems. This diverse background has strengthened my ability to bridge the gap between technical expertise and practical application, especially within educational settings.
