@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Fundación Universitaria Konrad Lorenz", url = "https://www.konradlorenz.edu.co" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "imagen.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "imagen.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "renealoboq@konradlorenz.edu.co"
   address = "Carrera 9 Bis No. 62 – 43 Bogotá – Colombia"
   #office_hours = ""
