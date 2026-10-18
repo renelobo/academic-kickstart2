@@ -31,7 +31,7 @@ sections:
       text: |-
         My primary research line centers on the **LARA framework** (Learning Analytics for Reactive Assistance) and **Leia 2.0**, an AI-powered pedagogical assistant for programming education, which I have studied with cohorts of engineering students in Colombia. I have also developed learning analytics infrastructure for pair programming research.
 
-        Previously, as a researcher at Fundación Universitaria Konrad Lorenz and during my PhD at Universitat Pompeu Fabra, I studied computer-supported collaborative learning, flow experience and social media literacy.
+        At Fundación Universitaria Konrad Lorenz I developed **Konrad Think-Pair-Share**, an AI-enhanced collaborative learning platform, to study how AI scaffolding affects students' creative thinking. During my PhD at Universitat Pompeu Fabra I studied computer-supported collaborative learning, flow experience and social media literacy.
     design:
       columns: '1'
   - block: collection
