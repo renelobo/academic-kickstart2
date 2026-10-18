@@ -36,7 +36,6 @@ interests:
   - AI-Assisted Programming Education
   - Learning Analytics
   - Educational Technologies
-  - Mobile and Web Development
 
 education:
   - degree: PhD in Information and Communication Technologies
@@ -88,12 +87,6 @@ experience:
     end: 2015-01-01
     summary: |
       Software Engineering and Computing Paradigms.
-  - role: Mobile Developer (freelance)
-    org: Independent
-    start: 2013-01-01
-    summary: |
-      Android and cross-platform mobile applications for a wide range of
-      sectors, including project management and user experience design.
   - role: Instructor
     org: Universidad Nacional de Colombia
     start: 2012-01-01

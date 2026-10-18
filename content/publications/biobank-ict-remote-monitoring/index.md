@@ -14,6 +14,9 @@ publication:
   volume: 4
   issue: "2.S1"
   pages: "18"
+links:
+  - type: doi
+    url: https://doi.org/10.20320/rfcsudes.v4i2.s1.r05
 featured: false
 projects:
   - biobank

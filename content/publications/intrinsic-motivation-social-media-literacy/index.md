@@ -13,5 +13,10 @@ publication:
 links:
   - type: doi
     url: https://doi.org/10.1007/978-3-031-29800-4_32
+  - type: pdf
+    url: https://hdl.handle.net/10230/57403
+    label: Open access
 featured: false
+projects:
+  - courage
 ---

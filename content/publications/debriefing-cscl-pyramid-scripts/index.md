@@ -12,5 +12,13 @@ publication_types: ["paper-conference"]
 publication:
   name: "International Conference on Collaboration Technologies and Social Computing (CollabTech 2022)"
   pages: "23-37"
+links:
+  - type: doi
+    url: https://doi.org/10.1007/978-3-031-20218-6_2
+  - type: pdf
+    url: https://hdl.handle.net/10230/54881
+    label: Open access
 featured: false
+projects:
+  - pyramidapp
 ---
