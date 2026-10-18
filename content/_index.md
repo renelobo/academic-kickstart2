@@ -2,6 +2,8 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
+seo:
+  title: 'René Lobo-Quintero, PhD – AI in Education & Learning Analytics Researcher'
 date: 2026-10-18
 type: landing
 
@@ -43,6 +45,27 @@ sections:
           - publications
     design:
       view: citation
+  - block: markdown
+    id: collaborate
+    content:
+      title: Invite me
+      text: |-
+        I welcome invitations to contribute as:
+
+        - **Peer reviewer** for journals and conferences in learning analytics, AI in education, CSCL and educational technology
+        - **Evaluator** of research projects, grant proposals and master's or doctoral theses
+        - **Invited speaker or keynote** at conferences, seminars and institutional events
+        - **Workshop facilitator** on generative AI in the classroom, learning analytics and collaborative learning design
+
+        **Topics:** AI-assisted programming education · learning analytics · generative AI and chatbots in teaching · Think-Pair-Share and collaborative learning scripts · gamification and motivation · social media literacy.
+
+        Talks in **Spanish or English**, in person (Bogotá, Colombia) or online.
+
+        *Disponible como evaluador de artículos, proyectos y tesis, jurado y conferencista invitado en inteligencia artificial en educación, analítica del aprendizaje y aprendizaje colaborativo.*
+
+        [Send an invitation](mailto:raloboq@udistrital.edu.co?subject=Invitation%20%E2%80%93%20renelobo.com)
+    design:
+      columns: '1'
   - block: markdown
     id: contact
     content:
