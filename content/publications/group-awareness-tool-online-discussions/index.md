@@ -17,5 +17,10 @@ publication:
 links:
   - type: doi
     url: https://doi.org/10.1080/0144929x.2023.2200543
+  - type: pdf
+    url: https://hdl.handle.net/10230/57089
+    label: Open access
 featured: false
+projects:
+  - pyramidapp
 ---

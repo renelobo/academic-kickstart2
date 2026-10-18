@@ -8,4 +8,6 @@ publication_types: ["paper-conference"]
 publication:
   name: "Workshop at the 11th International Conference on Learning Analytics & Knowledge (LAK21)"
 featured: false
+projects:
+  - pyramidapp
 ---

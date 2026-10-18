@@ -28,5 +28,10 @@ publication:
 links:
   - type: doi
     url: https://doi.org/10.3389/frai.2022.654930
+  - type: pdf
+    url: https://hdl.handle.net/10230/56293
+    label: Open access
 featured: false
+projects:
+  - courage
 ---

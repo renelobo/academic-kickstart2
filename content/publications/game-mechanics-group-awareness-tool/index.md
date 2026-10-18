@@ -8,4 +8,6 @@ publication_types: ["paper-conference"]
 publication:
   name: "CEUR Workshop Proceedings"
 featured: false
+projects:
+  - pyramidapp
 ---

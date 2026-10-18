@@ -14,5 +14,10 @@ publication:
 links:
   - type: doi
     url: https://doi.org/10.18608/jla.2024.8185
+  - type: pdf
+    url: https://hdl.handle.net/10230/68845
+    label: Open access
 featured: true
+projects:
+  - pyramidapp
 ---

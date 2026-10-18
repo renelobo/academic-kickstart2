@@ -9,5 +9,11 @@ publication_types: ["paper-conference"]
 publication:
   name: "Learning Analytics Summer Institute Spain (LASI Spain 2020), CEUR Workshop Proceedings"
   pages: "81-96"
+links:
+  - type: pdf
+    url: https://hdl.handle.net/10230/47266
+    label: Open access
 featured: false
+projects:
+  - pyramidapp
 ---

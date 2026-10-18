@@ -10,5 +10,9 @@ publication_types: ["paper-conference"]
 publication:
   name: "XVII Congresso Ibero-Americano de Comunicação (IBERCOM 2022)"
   pages: "405-416"
+links:
+  - type: pdf
+    url: https://hdl.handle.net/10230/59889
+    label: Open access
 featured: false
 ---
