@@ -1,52 +1,41 @@
-# Academic Kickstart
+# renelobo.com
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
+Personal academic website of René Lobo, built with [Hugo](https://gohugo.io) and the
+[HugoBlox](https://hugoblox.com) Academic CV template, and deployed to GitHub Pages.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website by following the simple steps below.
+## Editing content
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+| What | Where |
+| --- | --- |
+| Name, bio, links, education, experience, interests | `data/authors/me.yaml` |
+| Profile photo | `assets/media/authors/me.png` |
+| Homepage sections | `content/_index.md` |
+| Publications (one folder each) | `content/publications/<slug>/index.md` |
+| Projects (one folder each, with `featured.jpg`) | `content/projects/<slug>/index.md` |
+| Teaching | `content/teaching.md` |
+| Blog posts | `content/blog/<slug>/index.md` |
+| Site settings (analytics, theme, footer) | `config/_default/params.yaml` |
+| Menu | `config/_default/menus.yaml` |
 
-## Getting Started
+## Running locally
 
-The following two methods describe how to install in the cloud using your web browser and how to install on your PC using the Command Prompt/Terminal app.
+Requires Hugo **extended 0.161.1** (the version pinned in `hugoblox.yaml`), Go and Node.js.
 
-### Quick install using your web browser
+    npm install
+    hugo server
 
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
+Then open <http://localhost:1313>.
 
-### Install on your PC
+Note: Hugo 0.162.0 currently fails to build the HugoBlox `blox` module
+(`assignment to entry in nil map` in `build_links.html`), so keep 0.161.1 until upstream fixes it.
 
-Prerequisites:
+## Deployment
 
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
+Every push to `master` builds the site and publishes it to GitHub Pages
+(`.github/workflows/deploy.yml`). One-time setup:
 
-1. Clone (or [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) or [download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip)) the *Academic Kickstart* repository with Git: 
-
-       git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork.*
-
-2. Initialize the theme:
-
-       cd My_Website
-       git submodule update --init --recursive
-
-3. View your new website:
-      
-       hugo server
-
-    Now you can go to [localhost:1313](http://localhost:1313) and your new Academic powered website should appear.
-  
-4. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it.
-
-## License
-
-Copyright 2017 [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+1. In the repository, go to **Settings → Pages** and set **Source** to **GitHub Actions**.
+2. In the same page, set **Custom domain** to `renelobo.com` and enable **Enforce HTTPS**.
+3. At your domain registrar, point the DNS to GitHub Pages:
+   - `A` records for `renelobo.com`: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
+   - `CNAME` record for `www`: `renelobo.github.io`
