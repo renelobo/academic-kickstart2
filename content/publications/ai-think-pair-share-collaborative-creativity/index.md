@@ -7,4 +7,6 @@ publication_types: ["chapter"]
 publication:
   name: "Innovación educativa en contextos reales: estudios y aplicaciones, Editorial Politécnico Grancolombiano"
 featured: false
+projects:
+  - konrad-think-pair-share
 ---
