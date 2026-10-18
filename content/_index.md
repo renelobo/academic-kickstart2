@@ -29,20 +29,35 @@ sections:
       title: 'Research'
       subtitle: ''
       text: |-
-        I am passionate about exploring how data-driven insights can transform educational practices and improve student outcomes.
+        My primary research line centers on the **LARA framework** (Learning Analytics for Reactive Assistance) and **Leia 2.0**, an AI-powered pedagogical assistant for programming education, which I have studied with cohorts of engineering students in Colombia. I have also developed learning analytics infrastructure for pair programming research.
 
-        Since 2013, I have also been actively involved in mobile application development, specializing in both Android and cross-platform solutions. As an entrepreneur and freelancer, I have created applications for a wide range of sectors, gaining experience in project management, user experience design, and adapting technology to solve real-world problems — especially within educational settings.
+        Previously, as a researcher at Fundación Universitaria Konrad Lorenz and during my PhD at Universitat Pompeu Fabra, I studied computer-supported collaborative learning, flow experience and social media literacy.
+
+        I am also a mobile and web applications developer, and have designed and built platforms for fintech, crowdfunding and educational services.
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Recent Publications
       filters:
         folders:
           - publications
     design:
       view: citation
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        📧 [raloboq@udistrital.edu.co](mailto:raloboq@udistrital.edu.co)
+
+        🏛️ Ingeniería de Sistemas  
+        Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
+
+        🆔 ORCID [0000-0003-2989-5357](https://orcid.org/0000-0003-2989-5357) · [Google Scholar](https://scholar.google.com/citations?user=jv3umq0AAAAJ)
+    design:
+      columns: '1'
   # To show your latest blog posts here, uncomment this block once you
   # have published your first post in `content/blog/`.
   # - block: collection

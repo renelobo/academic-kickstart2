@@ -7,22 +7,24 @@ name:
   family: Lobo Quintero
 postnominals:
   - PhD
-role: Researcher, Professor
+role: Professor and Researcher
 bio: |
-  I hold a PhD in Information and Communication Technologies from Universitat
-  Pompeu Fabra (Spain) and a Master's in Systems and Computer Engineering from
-  the National University of Colombia. My research focuses on leveraging
-  technology to enhance education, with a special emphasis on measuring its
-  impact through Learning Analytics.
+  I am a professor and researcher at Universidad Distrital Francisco José de
+  Caldas in Bogotá, Colombia, where I work at the intersection of Artificial
+  Intelligence, programming education and learning analytics. I received my
+  PhD in Information and Communication Technologies from Universitat Pompeu
+  Fabra (UPF) in 2023.
 
 affiliations:
-  - name: Fundación Universitaria Konrad Lorenz
-    url: https://www.konradlorenz.edu.co
+  - name: Universidad Distrital Francisco José de Caldas
+    url: https://www.udistrital.edu.co
 
 links:
   - icon: at-symbol
-    url: mailto:renealoboq@konradlorenz.edu.co
+    url: mailto:raloboq@udistrital.edu.co
     label: E-mail Me
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0003-2989-5357
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=jv3umq0AAAAJ
   - icon: brands/github
@@ -31,10 +33,10 @@ links:
     url: https://x.com/raloboq
 
 interests:
-  - Educational Technology
+  - AI-Assisted Programming Education
   - Learning Analytics
-  - Mobile Computing
-  - Gamification
+  - Educational Technologies
+  - Mobile and Web Development
 
 education:
   - degree: PhD in Information and Communication Technologies
@@ -51,15 +53,23 @@ education:
     end: 2012-01-01
 
 experience:
-  - role: Researcher, Professor
-    org: Fundación Universitaria Konrad Lorenz
+  - role: Professor (Systems Engineering)
+    org: Universidad Distrital Francisco José de Caldas
+    start: 2026-02-09
     summary: |
-      Research and teaching in educational technology and learning analytics.
+      Research on AI-assisted programming education and learning analytics.
+      Teaching Databases and Advanced Databases.
+  - role: Researcher
+    org: Fundación Universitaria Konrad Lorenz
+    end: 2025-12-01
+    summary: |
+      Research in educational technology and learning analytics.
   - role: PhD Researcher
     org: Universitat Pompeu Fabra
     end: 2023-01-01
     summary: |
-      Doctoral research on Learning Analytics in technology-enhanced learning.
+      Doctoral research on learning analytics, computer-supported
+      collaborative learning and social media literacy.
   - role: Professor
     org: Universidad Autónoma de Bucaramanga (UNAB)
     start: 2015-01-01
