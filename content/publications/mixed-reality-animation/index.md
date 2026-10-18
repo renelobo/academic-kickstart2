@@ -9,7 +9,7 @@ publication_types: ["paper-conference"]
 publication:
   name: "Encuentro Iberoamericano de Educación"
 abstract: "This project proposes the design, development and implementation of a prototype that allows users to modify and build kinetic structures, using mixed/hybrid reality as a central teaching technology for animation."
-featured: true
+featured: false
 projects:
   - animvr
 links:
