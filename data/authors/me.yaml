@@ -1,0 +1,89 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: René Lobo
+  given: René Alejandro
+  family: Lobo Quintero
+postnominals:
+  - PhD
+role: Researcher, Professor
+bio: |
+  I hold a PhD in Information and Communication Technologies from Universitat
+  Pompeu Fabra (Spain) and a Master's in Systems and Computer Engineering from
+  the National University of Colombia. My research focuses on leveraging
+  technology to enhance education, with a special emphasis on measuring its
+  impact through Learning Analytics.
+
+affiliations:
+  - name: Fundación Universitaria Konrad Lorenz
+    url: https://www.konradlorenz.edu.co
+
+links:
+  - icon: at-symbol
+    url: mailto:renealoboq@konradlorenz.edu.co
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=jv3umq0AAAAJ
+  - icon: brands/github
+    url: https://github.com/raloboq
+  - icon: brands/x
+    url: https://x.com/raloboq
+
+interests:
+  - Educational Technology
+  - Learning Analytics
+  - Mobile Computing
+  - Gamification
+
+education:
+  - degree: PhD in Information and Communication Technologies
+    institution: Universitat Pompeu Fabra
+    end: 2023-01-01
+  - degree: MEng in Systems and Computer Engineering
+    institution: Universidad Nacional de Colombia
+    end: 2015-01-01
+  - degree: International Exchange
+    institution: Politecnico di Milano
+    end: 2012-01-01
+  - degree: BSc in Systems Engineering
+    institution: Universidad Nacional de Colombia
+    end: 2012-01-01
+
+experience:
+  - role: Researcher, Professor
+    org: Fundación Universitaria Konrad Lorenz
+    summary: |
+      Research and teaching in educational technology and learning analytics.
+  - role: PhD Researcher
+    org: Universitat Pompeu Fabra
+    end: 2023-01-01
+    summary: |
+      Doctoral research on Learning Analytics in technology-enhanced learning.
+  - role: Professor
+    org: Universidad Autónoma de Bucaramanga (UNAB)
+    start: 2015-01-01
+    end: 2019-01-01
+    summary: |
+      Computer Programming, Mobile Applications Development, Programming
+      Fundamentals and Theory of Computation. Supervised bachelor's and
+      master's theses on mobile, AR and IoT systems.
+  - role: Professor
+    org: Unisangil
+    start: 2014-01-01
+    end: 2015-01-01
+    summary: |
+      Software Engineering and Computing Paradigms.
+  - role: Mobile Developer (freelance)
+    org: Independent
+    start: 2013-01-01
+    summary: |
+      Android and cross-platform mobile applications for a wide range of
+      sectors, including project management and user experience design.
+  - role: Instructor
+    org: Universidad Nacional de Colombia
+    start: 2012-01-01
+    end: 2013-01-01
+    summary: |
+      Computer Programming.
+
