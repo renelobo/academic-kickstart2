@@ -1,5 +1,7 @@
 ---
 title: Mobile Applications
+# Hidden from the site; set to false to publish again.
+draft: true
 summary: Android and cross-platform mobile application development
 date: 2016-04-27
 tags:
