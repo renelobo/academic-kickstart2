@@ -10,6 +10,8 @@ date: "2026-07-11"
 publication_types: ["article-journal"]
 publication:
   name: "CLEI Electronic Journal"
+  volume: 29
+  issue: 2
 links:
   - type: doi
     url: https://doi.org/10.19153/cleiej.29.2.8

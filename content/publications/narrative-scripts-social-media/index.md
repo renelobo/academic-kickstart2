@@ -7,6 +7,8 @@ authors:
   - Roberto Sánchez-Reina
   - Dimitri Ognibene
 date: "2021-01-01"
+publication:
+  name: "European Conference on Technology Enhanced Learning (EC-TEL 2021)"
 publication_types: ["chapter"]
 links:
   - type: doi

@@ -8,6 +8,9 @@ date: "2020-02-28"
 publication_types: ["article-journal"]
 publication:
   name: "Revista Educación en Ingeniería"
+  volume: 15
+  issue: 29
+  pages: "42-51"
 links:
   - type: doi
     url: https://doi.org/10.26507/rei.v15n29.1031

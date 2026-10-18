@@ -6,6 +6,8 @@ authors:
   - Emily Theophilou
   - Davinia Hernández-Leo
 date: "2023-01-01"
+publication:
+  name: "International Workshop on Higher Education Learning Methodologies and Technologies Online (HELMeTO)"
 publication_types: ["chapter"]
 links:
   - type: doi

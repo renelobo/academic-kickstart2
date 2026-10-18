@@ -45,6 +45,19 @@ sections:
           - publications
     design:
       view: citation
+  - block: markdown
+    id: contact
+    content:
+      title: Contact
+      text: |-
+        📧 [raloboq@udistrital.edu.co](mailto:raloboq@udistrital.edu.co)
+
+        🏛️ Ingeniería de Sistemas  
+        Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
+
+        🆔 ORCID [0000-0003-2989-5357](https://orcid.org/0000-0003-2989-5357) · [Google Scholar](https://scholar.google.com/citations?user=jv3umq0AAAAJ)
+    design:
+      columns: '1'
   # To show your latest blog posts here, uncomment this block once you
   # have published your first post in `content/blog/`.
   # - block: collection
