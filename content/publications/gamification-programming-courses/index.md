@@ -7,7 +7,7 @@ authors:
 date: "2020-02-28"
 publication_types: ["article-journal"]
 publication:
-  name: "Revista Educación en Ingeniería"
+  name: "Revista Digital Educación en Ingeniería"
   volume: 15
   issue: 29
   pages: "42-51"

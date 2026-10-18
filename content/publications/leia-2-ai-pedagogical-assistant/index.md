@@ -4,9 +4,12 @@ authors:
   - me
   - Julio Barón-Velandia
   - Sebastián-Camilo Vanegas-Ayala
-date: "2027-01-01"
+date: "2026-10-21"
 publishDate: "2026-10-18"
-publication_types: ["chapter"]
+publication_types: ["paper-conference"]
+publication:
+  name: "13th Workshop on Engineering Applications (WEA 2026), Applied Computer Sciences in Engineering, Springer"
+  pages: "380-390"
 links:
   - type: doi
     url: https://doi.org/10.1007/978-3-032-41324-6_31

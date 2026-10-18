@@ -4,7 +4,8 @@ authors:
   - Emily Theophilou
   - Roberto Sánchez-Reina
   - Davinia Hernández-Leo
-  - V. Odakura
+  - Valguima Odakura
+  - Ishari Amarasinghe
   - me
 date: "2024-01-01"
 publication_types: ["article-journal"]

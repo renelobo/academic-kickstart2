@@ -7,6 +7,9 @@ authors:
   - Davinia Hernández-Leo
 date: "2023-01-01"
 publication_types: ["chapter"]
+publication:
+  name: "International Conference on Collaboration Technologies and Social Computing (CollabTech 2023)"
+  pages: "101-114"
 links:
   - type: doi
     url: https://doi.org/10.1007/978-3-031-42141-9_7

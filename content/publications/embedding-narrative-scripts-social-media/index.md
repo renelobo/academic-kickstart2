@@ -5,6 +5,7 @@ authors:
   - me
   - Davinia Hernández-Leo
   - Roberto Sánchez-Reina
+  - Dimitri Ognibene
 date: "2024-01-01"
 publication_types: ["article-journal"]
 publication:
