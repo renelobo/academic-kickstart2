@@ -5,7 +5,10 @@ authors:
   - Ishari Amarasinghe
   - Davinia Hernández-Leo
   - me
+  - Francisco Crespi
 date: "2021-01-01"
 publication_types: ["paper-conference"]
+publication:
+  name: "Learning Analytics Summer Institute Spain (LASI Spain 2021), CEUR Workshop Proceedings"
 featured: false
 ---

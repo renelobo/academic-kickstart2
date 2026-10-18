@@ -7,9 +7,10 @@ authors:
   - J. Roberto Sánchez Reina
   - me
 date: "2021-01-01"
+publication_types: ["chapter"]
 publication:
   name: "International Conference on Collaboration Technologies and Social Computing (CollabTech 2021)"
-publication_types: ["chapter"]
+  pages: "35-50"
 links:
   - type: doi
     url: https://doi.org/10.1007/978-3-030-85071-5_3

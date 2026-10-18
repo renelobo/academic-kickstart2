@@ -8,5 +8,6 @@ date: "2020-01-01"
 publication_types: ["paper-conference"]
 publication:
   name: "Learning Analytics Summer Institute Spain (LASI Spain 2020), CEUR Workshop Proceedings"
+  pages: "81-96"
 featured: false
 ---

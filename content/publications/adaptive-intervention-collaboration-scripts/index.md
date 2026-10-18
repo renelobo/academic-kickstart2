@@ -6,9 +6,10 @@ authors:
   - Roberto Sánchez-Reina
   - Davinia Hernández-Leo
 date: "2022-01-01"
+publication_types: ["chapter"]
 publication:
   name: "International Conference on Collaboration Technologies and Social Computing (CollabTech 2022)"
-publication_types: ["chapter"]
+  pages: "205-217"
 links:
   - type: doi
     url: https://doi.org/10.1007/978-3-031-20218-6_14

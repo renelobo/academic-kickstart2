@@ -42,9 +42,13 @@ education:
   - degree: PhD in Information and Communication Technologies
     institution: Universitat Pompeu Fabra
     end: 2023-01-01
+    summary: |
+      Thesis: *Motivation-Driven Mechanics in Computer-Supported Collaborative Learning Scripts*.
   - degree: MEng in Systems and Computer Engineering
     institution: Universidad Nacional de Colombia
     end: 2015-01-01
+    summary: |
+      Thesis: *Augmented Reality for Educative and Collaborative Environments*.
   - degree: International Exchange
     institution: Politecnico di Milano
     end: 2012-01-01
