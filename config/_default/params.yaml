@@ -21,9 +21,9 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Professor and Researcher"
     # Site meta description for search engines and social sharing
-    description: "René Alejandro Lobo Quintero – professor and researcher at Universidad
-      Distrital Francisco José de Caldas working on AI-assisted programming education
-      and learning analytics."
+    description: "René Lobo-Quintero, PhD: professor and researcher at Universidad
+      Distrital (Bogotá) in AI in education and learning analytics. Peer reviewer,
+      evaluator and invited speaker."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

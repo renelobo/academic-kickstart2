@@ -1,0 +1,30 @@
+{{- /* Schema.org Person data for search engines (homepage only). */ -}}
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" "René Lobo-Quintero"
+  "alternateName" (slice "René Alejandro Lobo Quintero" "René Lobo" "Rene Lobo Quintero" "R. A. Lobo-Quintero")
+  "givenName" "René Alejandro"
+  "familyName" "Lobo Quintero"
+  "honorificSuffix" "PhD"
+  "url" site.BaseURL
+  "image" ((resources.Get "media/authors/me.png").Permalink)
+  "email" "mailto:raloboq@udistrital.edu.co"
+  "jobTitle" "Professor and Researcher"
+  "description" site.Params.hugoblox.identity.description
+  "worksFor" (dict "@type" "CollegeOrUniversity" "name" "Universidad Distrital Francisco José de Caldas" "url" "https://www.udistrital.edu.co")
+  "alumniOf" (slice
+    (dict "@type" "CollegeOrUniversity" "name" "Universitat Pompeu Fabra")
+    (dict "@type" "CollegeOrUniversity" "name" "Universidad Nacional de Colombia"))
+  "knowsAbout" (slice "Artificial Intelligence in Education" "Learning Analytics" "Computer-Supported Collaborative Learning" "Programming Education" "Gamification" "Educational Technology" "Social Media Literacy")
+  "knowsLanguage" (slice "es" "en")
+  "sameAs" (slice
+    "https://orcid.org/0000-0003-2989-5357"
+    "https://scholar.google.com/citations?user=jv3umq0AAAAJ"
+    "https://github.com/raloboq"
+    "https://x.com/raloboq")
+  | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}
