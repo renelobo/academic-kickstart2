@@ -1,19 +1,38 @@
 ---
 title: Teaching
 date: 2026-10-18
+show_date: false
+reading_time: false
 ---
 
 ## Courses
 
-- **Databases** — Universidad Distrital Francisco José de Caldas, 2026 – present
-- **Advanced Databases** — Universidad Distrital Francisco José de Caldas, 2026 – present
-- **Computer Programming** — Universidad Autónoma de Bucaramanga, 2017 – 2019
-- **Mobile Applications Development** — Universidad Autónoma de Bucaramanga, 2016 – 2019
-- **Programming Fundamentals** — Universidad Autónoma de Bucaramanga, 2015 – 2017
-- **Theory of Computation** — Universidad Autónoma de Bucaramanga, 2015 – 2017
-- **Software Engineering** — Unisangil, 2014 – 2015
-- **Computing Paradigms** — Unisangil, 2014 – 2015
-- **Computer Programming** — Universidad Nacional de Colombia, 2012 – 2013
+**Universidad Distrital Francisco José de Caldas** (2026 – present)
+- Databases
+- Advanced Databases
+
+**Universitat Pompeu Fabra** (2019 – 2023)
+- Interactive Systems (4 years)
+- Introduction to ICT (2 years)
+- Bachelor's final projects (3 years)
+
+**Universidad Autónoma de Bucaramanga** (2015 – 2019)
+- Programming Fundamentals
+- Computer Programming
+- Theory of Computation
+- Mobile Device Programming
+- Mobile Applications Development — Master's in Advanced Technologies for Software Development
+- Final degree projects
+
+**Corporación Universitaria del Caribe – CECAR** (2019)
+- Specialisation in Mobile Application Development
+
+**Unisangil** (2014)
+- Software Engineering
+- Programming Paradigms
+
+**Universidad Nacional de Colombia** (2011 – 2012, teaching assistant)
+- Computer Programming
 
 ## Supervised master's theses
 

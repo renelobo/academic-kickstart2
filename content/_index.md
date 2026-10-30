@@ -76,7 +76,7 @@ sections:
         🏛️ Ingeniería de Sistemas  
         Universidad Distrital Francisco José de Caldas, Bogotá, Colombia
 
-        🆔 ORCID [0000-0003-2989-5357](https://orcid.org/0000-0003-2989-5357) · [Google Scholar](https://scholar.google.com/citations?user=jv3umq0AAAAJ)
+        🆔 ORCID [0000-0003-2989-5357](https://orcid.org/0000-0003-2989-5357) · [Google Scholar](https://scholar.google.com/citations?user=jv3umq0AAAAJ) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216907823) · [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001007017)
     design:
       columns: '1'
   # To show your latest blog posts here, uncomment this block once you

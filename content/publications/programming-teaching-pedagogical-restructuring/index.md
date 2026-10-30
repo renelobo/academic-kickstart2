@@ -15,4 +15,6 @@ links:
   - type: doi
     url: https://doi.org/10.15332/25005421.6000
 featured: false
+projects:
+  - gamification-programming
 ---

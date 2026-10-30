@@ -1,5 +1,5 @@
 ---
-title: "Augmented Reality for Educative and Collaborative Environments"
+title: "Realidad aumentada para entornos educativos y colaborativos"
 authors:
   - me
 date: "2014-01-01"
