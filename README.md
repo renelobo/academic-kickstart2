@@ -19,12 +19,13 @@ Personal academic website of René Lobo, built with [Hugo](https://gohugo.io) an
 
 ## Languages
 
-The site is bilingual: English at `/` and Spanish at `/es/`.
+The site is bilingual: Spanish (default) at `/` and English at `/en/`.
 
 - English pages live in `content/en/`, Spanish pages in `content/es/` with the same file names.
 - Publications and talks are shared: the Spanish site reuses `content/en/publications/` and `content/en/events/` (see `config/_default/module.yaml`).
 - Spanish profile text (bio, experience, awards…) is in `data/es/authors/me.yaml`; anything not set there falls back to `data/authors/me.yaml`.
-- Spanish menu and description are in `config/_default/languages.yaml`.
+- Menus for both languages and the Spanish description are in `config/_default/languages.yaml`.
+- Images in Spanish project pages point to the English bundle (`/en/projects/<slug>/…`).
 
 ## Running locally
 

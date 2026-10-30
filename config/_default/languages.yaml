@@ -1,17 +1,37 @@
 # Languages
-#   English is served at the site root, Spanish under /es/.
+#   Spanish (default) is served at the site root, English under /en/.
 #   Content folders are mounted per language in module.yaml.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 en:
   locale: en-us
   label: English
-  weight: 1
+  weight: 2
+  menu:
+    main:
+      - name: Publications
+        url: /en/#papers
+        weight: 11
+      - name: Experience
+        url: /en/experience/
+        weight: 20
+      - name: Teaching
+        url: /en/teaching/
+        weight: 30
+      - name: Projects
+        url: /en/projects/
+        weight: 40
+      - name: Talks & Service
+        url: /en/talks-service/
+        weight: 42
+      - name: Invite me
+        url: /en/#collaborate
+        weight: 44
 
 es:
   locale: es-co
   label: Español
-  weight: 2
+  weight: 1
   params:
     hugoblox:
       identity:
@@ -22,20 +42,20 @@ es:
   menu:
     main:
       - name: Publicaciones
-        url: /es/#papers
+        url: /#papers
         weight: 11
       - name: Trayectoria
-        url: /es/experience/
+        url: /experience/
         weight: 20
       - name: Docencia
-        url: /es/teaching/
+        url: /teaching/
         weight: 30
       - name: Proyectos
-        url: /es/projects/
+        url: /projects/
         weight: 40
       - name: Charlas y servicio
-        url: /es/talks-service/
+        url: /talks-service/
         weight: 42
       - name: Invítame
-        url: /es/#collaborate
+        url: /#collaborate
         weight: 44

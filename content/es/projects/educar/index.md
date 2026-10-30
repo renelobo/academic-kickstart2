@@ -13,6 +13,6 @@ Desarrollamos una aplicación de realidad aumentada que cualquier docente y estu
 EducAR se construyó con Unity 3D (versión 5.3.1), que permite desarrollar para dispositivos móviles y de escritorio, y con el SDK de Vuforia, que convierte la pantalla del dispositivo en una pantalla de realidad aumentada.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;align-items:start">
-  <img src="/projects/educar/educar-markers.jpg" alt="Augmented reality markers for electronic components" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
-  <img src="/projects/educar/educar-menu.jpg" alt="EducAR model selection menu" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/educar/educar-markers.jpg" alt="Marcadores de realidad aumentada para componentes electrónicos" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/educar/educar-menu.jpg" alt="Menú de selección de modelos de EducAR" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
 </div>

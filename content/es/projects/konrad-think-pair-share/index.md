@@ -21,9 +21,9 @@ Una plataforma web propia con sincronización en tiempo real y analítica del ap
 La plataforma registra cada interacción de escritura, los textos finales y los diálogos completos entre estudiantes y chatbot para su análisis.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(min(600px,100%),1fr));gap:1rem;align-items:start">
-  <img src="/projects/konrad-think-pair-share/tps-home.jpg" alt="Platform home page with student and teacher access and the three TPS phases" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
-  <img src="/projects/konrad-think-pair-share/tps-think.jpg" alt="Individual reflection phase with the topic, guiding questions and a countdown timer" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
-  <img src="/projects/konrad-think-pair-share/tps-pair.jpg" alt="Pair phase: shared editor and the Lupi AI assistant" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/konrad-think-pair-share/tps-home.jpg" alt="Página de inicio de la plataforma con acceso para estudiantes y profesores y las tres fases de TPS" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/konrad-think-pair-share/tps-think.jpg" alt="Fase de reflexión individual con el tema, preguntas orientadoras y temporizador" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/konrad-think-pair-share/tps-pair.jpg" alt="Fase en parejas: editor compartido y el asistente de IA Lupi" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
 </div>
 
 Los docentes crean y administran las actividades, configuran los parámetros de cada fase y siguen el progreso de sus estudiantes; a cada estudiante se le asigna automáticamente una sala con un compañero.
@@ -33,8 +33,8 @@ Los docentes crean y administran las actividades, configuran los parámetros de 
 Un estudio cuasiexperimental con asignación aleatoria por grupos y **140 estudiantes de Ingeniería de Sistemas** de siete cursos (Fundamentos de Programación, Análisis y Diseño de Software, e Ingeniería de Software): 80 estudiantes usaron la plataforma con IA y 60 la misma plataforma sin IA. La creatividad lingüística se analizó en cuatro dimensiones (fluidez, flexibilidad, originalidad y elaboración) mediante diversidad léxica (TTR, MTLD), modelado de tópicos, métricas de productividad y la similitud entre los textos de los estudiantes y las respuestas del chatbot.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem;align-items:start">
-  <img src="/projects/konrad-think-pair-share/tps-classroom-1.jpg" alt="A student using the pair phase with the AI assistant" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
-  <img src="/projects/konrad-think-pair-share/tps-classroom-2.jpg" alt="A student writing in the collaborative editor" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/konrad-think-pair-share/tps-classroom-1.jpg" alt="Una estudiante en la fase en parejas con el asistente de IA" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
+  <img src="/en/projects/konrad-think-pair-share/tps-classroom-2.jpg" alt="Una estudiante escribiendo en el editor colaborativo" loading="lazy" style="width:100%;height:auto;border-radius:8px;margin:0">
 </div>
 
 ## Resultados
