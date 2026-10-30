@@ -44,12 +44,14 @@ education:
     institution: Universitat Pompeu Fabra (TIDE research group)
     start: 2019-01-01
     end: 2023-12-15
+    year: "2019 – 2023"
     summary: |
       Thesis: *Motivation-Driven Mechanics in Computer-Supported Collaborative Learning Scripts*.
   - degree: MEng in Systems and Computer Engineering
     institution: Universidad Nacional de Colombia
     start: 2011-01-01
     end: 2014-01-01
+    year: "2011 – 2014"
     summary: |
       Thesis: *Realidad aumentada para entornos educativos y colaborativos* (Augmented
       reality for educational and collaborative environments), advised by Jonatan Gómez
@@ -58,6 +60,7 @@ education:
     institution: Universidad Nacional de Colombia
     start: 2006-01-01
     end: 2011-01-01
+    year: "2006 – 2011"
 
 experience:
   - role: Professor (Systems Engineering)

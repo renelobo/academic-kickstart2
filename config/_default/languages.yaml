@@ -1,22 +1,41 @@
 # Languages
-#   Create a section for each of your site's languages.
+#   English is served at the site root, Spanish under /es/.
+#   Content folders are mounted per language in module.yaml.
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
-# Default language
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  label: English
+  weight: 1
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+es:
+  locale: es-co
+  label: Español
+  weight: 2
+  params:
+    hugoblox:
+      identity:
+        tagline: "Profesor e investigador"
+        description: "René Lobo-Quintero, PhD: profesor e investigador de la Universidad
+          Distrital (Bogotá) en inteligencia artificial en educación y analítica del
+          aprendizaje. Evaluador, jurado y conferencista."
+  menu:
+    main:
+      - name: Publicaciones
+        url: /es/#papers
+        weight: 11
+      - name: Trayectoria
+        url: /es/experience/
+        weight: 20
+      - name: Docencia
+        url: /es/teaching/
+        weight: 30
+      - name: Proyectos
+        url: /es/projects/
+        weight: 40
+      - name: Charlas y servicio
+        url: /es/talks-service/
+        weight: 42
+      - name: Invítame
+        url: /es/#collaborate
+        weight: 44

@@ -1,0 +1,122 @@
+# Spanish overrides for data/authors/me.yaml (fields not listed here are inherited).
+role: Profesor e investigador
+bio: |
+  Soy profesor e investigador de la Universidad Distrital Francisco José de
+  Caldas en Bogotá, Colombia, donde trabajo en la intersección entre la
+  inteligencia artificial, la enseñanza de la programación y la analítica del
+  aprendizaje. Obtuve mi doctorado en Tecnologías de la Información y la
+  Comunicación en la Universitat Pompeu Fabra (UPF) en 2023.
+
+interests:
+  - Enseñanza de la programación asistida por IA
+  - Analítica del aprendizaje
+  - Tecnologías educativas
+
+education:
+  - degree: Doctorado en Tecnologías de la Información y la Comunicación
+    institution: Universitat Pompeu Fabra (grupo de investigación TIDE)
+    start: 2019-01-01
+    end: 2023-12-15
+    year: "2019 – 2023"
+    summary: |
+      Tesis: *Motivation-Driven Mechanics in Computer-Supported Collaborative Learning Scripts*.
+  - degree: Maestría en Ingeniería de Sistemas y Computación
+    institution: Universidad Nacional de Colombia
+    start: 2011-01-01
+    end: 2014-01-01
+    year: "2011 – 2014"
+    summary: |
+      Tesis: *Realidad aumentada para entornos educativos y colaborativos*, dirigida por
+      Jonatan Gómez Perdomo, PhD. Incluye un intercambio internacional en el
+      Politecnico di Milano (Italia).
+  - degree: Ingeniería de Sistemas
+    institution: Universidad Nacional de Colombia
+    start: 2006-01-01
+    end: 2011-01-01
+    year: "2006 – 2011"
+
+experience:
+  - role: Profesor de planta (Ingeniería de Sistemas)
+    org: Universidad Distrital Francisco José de Caldas
+    start: 2026-02-09
+    summary: |
+      Investigación en enseñanza de la programación asistida por IA y analítica
+      del aprendizaje. Docente de Bases de Datos y Bases de Datos Avanzadas.
+  - role: Investigador
+    org: Fundación Universitaria Konrad Lorenz
+    end: 2025-12-01
+    summary: |
+      Investigación en tecnología educativa y analítica del aprendizaje.
+      Desarrollo de Konrad Think-Pair-Share, una plataforma de aprendizaje
+      colaborativo con inteligencia artificial.
+  - role: Investigador y profesor predoctoral
+    org: Universitat Pompeu Fabra
+    start: 2019-01-01
+    end: 2023-12-01
+    summary: |
+      Investigación doctoral en el grupo TIDE sobre analítica del aprendizaje,
+      aprendizaje colaborativo apoyado por computador y alfabetización en redes
+      sociales; investigador del proyecto COURAGE. Docente de Sistemas
+      Interactivos e Introducción a las TIC y director de trabajos de fin de grado.
+  - role: Profesor asistente
+    org: Universidad Autónoma de Bucaramanga (UNAB)
+    start: 2015-01-01
+    end: 2019-01-01
+    summary: |
+      Docente de Fundamentos de Programación, Programación de Computadores, Teoría
+      de la Computación y Programación de Dispositivos Móviles, y de Desarrollo de
+      Aplicaciones Móviles en la Maestría en Tecnologías Avanzadas para el
+      Desarrollo de Software. Director del grupo de investigación PRISMA y
+      coordinador del semillero SeMovil.
+  - role: Profesor de cátedra
+    org: Unisangil
+    start: 2014-01-01
+    end: 2014-12-01
+    summary: |
+      Ingeniería de Software y Paradigmas de Programación; coordinador del
+      semillero AMR (Applied Mobile Research).
+  - role: Auxiliar docente
+    org: Universidad Nacional de Colombia
+    start: 2011-07-01
+    end: 2012-06-01
+    summary: |
+      Programación de Computadores en el pregrado de Ingeniería de Sistemas y
+      Computación (beca de auxiliar docente de maestría).
+
+awards:
+  - title: Investigador Junior
+    awarder: Minciencias (Colombia)
+    summary: Reconocido como Investigador Junior en la convocatoria nacional de reconocimiento de investigadores.
+    icon: hero/academic-cap
+  - title: Contrato de investigación predoctoral
+    awarder: Universitat Pompeu Fabra
+    date: "2019-01-01"
+    summary: Plaza de doctorado financiada (docencia e investigación), incluido el trabajo en el proyecto COURAGE.
+    icon: hero/trophy
+  - title: Postulado al premio Reloj Solar al mejor docente de posgrado
+    awarder: Universidad Autónoma de Bucaramanga
+    date: "2019-01-01"
+    icon: hero/star
+  - title: Nominado al premio Reloj Solar al mejor docente
+    awarder: Universidad Autónoma de Bucaramanga
+    date: "2016-01-01"
+    icon: hero/star
+  - title: Beca de intercambio internacional (Politecnico di Milano, Italia)
+    awarder: Universidad Nacional de Colombia
+    date: "2012-01-01"
+    icon: hero/globe-alt
+  - title: Beca de auxiliar docente (estudios de maestría)
+    awarder: Universidad Nacional de Colombia
+    date: "2011-07-01"
+    icon: hero/trophy
+
+languages:
+  - name: Español
+    level: 5
+    label: Nativo
+  - name: Inglés
+    level: 4
+    label: C1 (IELTS)
+  - name: Italiano
+    level: 3
+    label: B1

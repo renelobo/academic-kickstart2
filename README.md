@@ -9,13 +9,22 @@ Personal academic website of René Lobo, built with [Hugo](https://gohugo.io) an
 | --- | --- |
 | Name, bio, links, education, experience, interests | `data/authors/me.yaml` |
 | Profile photo | `assets/media/authors/me.png` |
-| Homepage sections | `content/_index.md` |
-| Publications (one folder each) | `content/publications/<slug>/index.md` |
-| Projects (one folder each, with `featured.jpg`) | `content/projects/<slug>/index.md` |
-| Teaching | `content/teaching.md` |
-| Blog posts | `content/blog/<slug>/index.md` |
+| Homepage sections | `content/en/_index.md` (English), `content/es/_index.md` (Spanish) |
+| Publications (one folder each) | `content/en/publications/<slug>/index.md` |
+| Projects (one folder each, with `featured.jpg`) | `content/en/projects/<slug>/index.md` |
+| Teaching | `content/en/teaching.md` |
+| Blog posts | `content/en/blog/<slug>/index.md` |
 | Site settings (analytics, theme, footer) | `config/_default/params.yaml` |
 | Menu | `config/_default/menus.yaml` |
+
+## Languages
+
+The site is bilingual: English at `/` and Spanish at `/es/`.
+
+- English pages live in `content/en/`, Spanish pages in `content/es/` with the same file names.
+- Publications and talks are shared: the Spanish site reuses `content/en/publications/` and `content/en/events/` (see `config/_default/module.yaml`).
+- Spanish profile text (bio, experience, awards…) is in `data/es/authors/me.yaml`; anything not set there falls back to `data/authors/me.yaml`.
+- Spanish menu and description are in `config/_default/languages.yaml`.
 
 ## Running locally
 
