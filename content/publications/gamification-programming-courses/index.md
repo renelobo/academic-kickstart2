@@ -15,4 +15,6 @@ links:
   - type: doi
     url: https://doi.org/10.26507/rei.v15n29.1031
 featured: false
+projects:
+  - gamification-programming
 ---

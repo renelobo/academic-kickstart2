@@ -13,4 +13,14 @@ sections:
     design:
       date_format: '2006'
       is_education_first: false
+  - block: resume-awards
+    content:
+      title: Awards & Recognition
+      username: me
+    design:
+      date_format: '2006'
+  - block: resume-languages
+    content:
+      title: Languages
+      username: me
 ---

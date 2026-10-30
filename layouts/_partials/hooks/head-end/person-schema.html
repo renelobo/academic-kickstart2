@@ -19,10 +19,12 @@
     (dict "@type" "CollegeOrUniversity" "name" "Universitat Pompeu Fabra")
     (dict "@type" "CollegeOrUniversity" "name" "Universidad Nacional de Colombia"))
   "knowsAbout" (slice "Artificial Intelligence in Education" "Learning Analytics" "Computer-Supported Collaborative Learning" "Programming Education" "Gamification" "Educational Technology" "Social Media Literacy")
-  "knowsLanguage" (slice "es" "en")
+  "knowsLanguage" (slice "es" "en" "it")
   "sameAs" (slice
     "https://orcid.org/0000-0003-2989-5357"
     "https://scholar.google.com/citations?user=jv3umq0AAAAJ"
+    "https://www.scopus.com/authid/detail.uri?authorId=57216907823"
+    "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001007017"
     "https://github.com/raloboq"
     "https://x.com/raloboq")
   | jsonify (dict "indent" "  ") | safeJS }}

@@ -17,12 +17,12 @@ main:
   - name: Projects
     url: projects/
     weight: 40
+  - name: Talks & Service
+    url: talks-service/
+    weight: 42
   - name: Invite me
     url: /#collaborate
     weight: 44
-  - name: Contact
-    url: /#contact
-    weight: 45
   # Uncomment once you have published your first post in `content/blog/`.
   # - name: Blog
   #   url: blog/
