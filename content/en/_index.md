@@ -61,8 +61,6 @@ sections:
 
         Talks in **Spanish or English**, in person (Bogotá, Colombia) or online.
 
-        *Disponible como evaluador de artículos, proyectos y tesis, jurado y conferencista invitado en inteligencia artificial en educación, analítica del aprendizaje y aprendizaje colaborativo.*
-
         [Send an invitation](mailto:raloboq@udistrital.edu.co?subject=Invitation%20%E2%80%93%20renelobo.com)
     design:
       columns: '1'

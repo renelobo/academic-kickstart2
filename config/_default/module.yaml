@@ -9,6 +9,33 @@ imports:
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
+  # Content per language. Publications, talks and author settings are shared:
+  # the Spanish site reuses the English files.
+  - source: content/en
+    target: content
+    sites:
+      matrix:
+        languages: [en]
+  - source: content/es
+    target: content
+    sites:
+      matrix:
+        languages: [es]
+  - source: content/en/publications
+    target: content/publications
+    sites:
+      matrix:
+        languages: [es]
+  - source: content/en/events
+    target: content/events
+    sites:
+      matrix:
+        languages: [es]
+  - source: content/en/authors
+    target: content/authors
+    sites:
+      matrix:
+        languages: [es]
   - source: hugo-blox/blox/community
     target: layouts/_partials/blox/community/
     files:
